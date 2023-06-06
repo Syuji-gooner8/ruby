@@ -15,4 +15,4 @@ bus.run(5)
 
 
 
-puts Bus.superclass
+puts bus.superclass
